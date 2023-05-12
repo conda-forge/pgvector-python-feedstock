@@ -1,11 +1,11 @@
-About pgvector-python
-=====================
+About pgvector-python-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pgvector-python-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/pgvector/pgvector-python
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pgvector-python-feedstock/blob/main/LICENSE.txt)
 
 Summary: pgvector support for Python
 
