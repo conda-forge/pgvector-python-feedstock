@@ -1,5 +1,5 @@
 {% set name = "pgvector-python" %}
-{% set version = "0.2.5" %}
+{% set version = "0.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/pgvector/pgvector-python/archive/v{{ version }}.tar.gz
-  sha256: 5b81aef4926aa9f44e47b5aaf2327bd85735049dd00fa0a71a2fb56655119064
+  sha256: 301df20fec3b3066ad2269207ac3e1cd311b77b2448dbbda5b006a8d4f515b04
 
 build:
   noarch: python
