@@ -151,4 +151,5 @@ Feedstock Maintainers
 =====================
 
 * [@mmcauliffe](https://github.com/mmcauliffe/)
+* [@moritzwilksch](https://github.com/moritzwilksch/)
 
