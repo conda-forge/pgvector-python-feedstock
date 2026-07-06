@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.2"
+  version: "0.5.0"
 
 package:
   name: pgvector-python
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pgvector/pgvector-${{ version }}.tar.gz
-  sha256: 322cac0c1dc5d41c9ecf782bd9991b7966685dee3a00bc873631391ed949513a
+  sha256: 07a9dcf735696879406983afc6eba9a787cef7c0cf6c367ca1a5779f036dee74
 
 build:
   number: 0
